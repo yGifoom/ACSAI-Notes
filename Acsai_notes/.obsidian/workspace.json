@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "b6866d9da5981e10",
+    "type": "split",
+    "children": [
+      {
+        "id": "02daaae87c7c38c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ced0fc8518b68ece",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "748a845fff612122",
+    "type": "split",
+    "children": [
+      {
+        "id": "10eb155af8e9b122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41543f36016ac4dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9d903ab1b8e8d9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e43924a4927ef5b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d242b136d5eecd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c01fb410bcfb43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a2555e181f909d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09ce0a33e1b41f32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "749b5c716aa61928",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69721aeb1fd96760",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ced0fc8518b68ece",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "SYS/notes.txt",
+    "SYS/exam-26-07-2023.sol.zip",
+    "SYS/Threads.pdf",
+    "SYS/Systems questions English NO SOLUTIONS.pdf",
+    "SYS/Synchronization_Implementation.pdf",
+    "SYS/Paging.pdf",
+    "SYS/Deadlock.pdf",
+    "SYS/18_Advanced_Paging.pdf",
+    "SYS/16_Advanced_Paging.pdf",
+    "SYS/16-17_Memory_Management_Allocation.pdf",
+    "PHY/phy4.jpg",
+    "PHY/phy3.jpg",
+    "PHY/phy2.jpg",
+    "PHY/phy1.jpg",
+    "func5/expected_4.png",
+    "func5/expected_3.png",
+    "func5/expected_2.png",
+    "func5/expected_1.png",
+    "create a link.md"
+  ]
+}

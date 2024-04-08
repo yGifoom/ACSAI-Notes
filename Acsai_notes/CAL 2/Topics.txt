@@ -1,0 +1,47 @@
+## Base tools for multivariable calcolus
+	- cartesian plane
+	- vectors
+	- lines, planes, sphere
+	- polar coordinates
+## cylinders and quadratic surfaces:
+	- cylinder (circular, elliptical, parabolic)
+	- ellipsoid
+	- paraboloid (elliptic, circular
+	- cone
+## Functions of several variables
+	- Domain and range
+	- level curves and level surfaces
+	
+## Limits of higher dimentions
+	- definition
+	- two paths test
+	- polar coordinates substitution
+
+## Continuity
+	- definition
+
+## Partial derivatives
+	- definition
+	- Implicit differentiation
+	- higher order partial derivatives
+	- Schwarz's theorem
+	- Partial derivative and continuity of f
+	- Differentiability implies continuity (on derivative of f)
+	- graphical interpretation of partial derivative
+	
+	- chain rule for differentiation (schema)
+	- implicit differentiation (revisited wh chain rule)
+
+## Gradient and directional derivatives
+	- def of directional derivative
+	- expression of the der. of a multi variable fct with a fct of one variable
+	- graphical interpretation
+	
+	- def of gradient
+	- proprieties & algebra
+
+## tangent planes and normal lines:
+	- def of tangent plane & normal line to a surface
+	
+	
+	

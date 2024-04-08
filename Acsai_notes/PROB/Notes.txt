@@ -1,0 +1,9 @@
+https://www1.mat.uniroma1.it/people/bertini/ama/didattica/compsci/index.html
+------------------------------------------------------------------------------
+- Ex 6 settimana 2: per le combinazioni totali dei full ci dimentichiamo dell'ordine per il tris
+e per la coppia, ma non di tutte e 5 le carte, mentre per la doppia coppia ci dimentichiamo
+dell'ordine della prima e seconda coppia e poi dell'ordine delle due coppie (moltiplichiamo per 1/2! perche' ci sono due gruppi dalla medesima cardinalita'). se volessimo trovare la cardinalita' dell'evento {pesco 5 carte di diverso numero} cosa dovrei fare? perche' moltiplicare per 5! non basta?
+perche' il numero dei full non e' ( 4!/1!*13 * 4!/2!*12 ) * 1/5! (conto tutti i tris ordinati e 
+tutte le coppie ordinate per poi mischiarle tutte insieme)
+
+Q: what is the law of total probability? P(A|B)*P(B)

@@ -1,0 +1,30 @@
+## Introduction to probability theory
+	- Axioms and correspondence rules
+	- group theory operations (union, intersection..)
+	
+## Discrete probability spaces
+	- events 
+	- combinatorial calculus 
+		- arrangements 
+		- combinations 
+		- with and without repetition
+		- total subsets
+
+	- inclusion exclusion formula
+
+	- product probability space
+		- Independent events 
+		- pair-wise and three-wise independence
+		- Bernoulli schemes (binomial distr. wh order)
+	
+	- binomial distribution
+		- Newton binomial
+
+	- Conditional probability
+		- Bayes formula
+	- Formula of composite probabilities total probabilities 
+		- Gambler's ruin problem
+	- Discrete random variables
+		- distribution
+		- expectation value
+		- variance and covariance

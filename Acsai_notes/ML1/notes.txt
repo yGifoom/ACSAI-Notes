@@ -1,0 +1,1 @@
+exploration vs exploitation: using euristics to guide choices or actually exploring and avaluating them all

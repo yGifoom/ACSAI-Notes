@@ -1,0 +1,36 @@
+## Introduction to DBMS
+
+## The relational model
+
+## Relational algebra
+- unary operators: projection, selection. 
+- Binary operators: union, difference, intersection, Cartesian	
+	production, _natural join_, _θ-join_. Negation, _universal and existence quantification_
+	  
+## Database design and normalization
+- Data redundancy, insertion, update, and deletion anomalies. 
+- Relational theory definitions: schema, tuple instance, functional dependency, 
+  legal instance, closure of F. trivial dependencies, properties of functional dependencies. 
+-* Armstrong’s axioms, rules: decomposition, union, pseudotransitivity, with Theorem *proof* 
+-* Closure of X and first lemma on the closure *proof*
+-* Theorem F^+ = FA *proof*
+- Third normal form, formal definition and alternative definition. 
+-* Algorithm for computing X+, correctness theorem *proof*
+- Key definition, practical ways to find the keys of a schema, uniqueness check. 
+- Decomposition of a schema, definition. 
+- Projection of F on the decomposition of a schema, definition. 
+- Equivalence between two sets of functional dependencies, definition. 
+-* Lemma on the closures of two sets of functional dependencies *proof*
+- Decomposition preserving F, definition. 
+	- algorithm
+-* Algorithm for checking if F is preserved *proof*
+- lossless join
+	- equivalence check for set of fctnal dep
+	- 3 Theorems of mrho(r)
+	- algorithm for checking if a decomposition is lossy
+- Minimal Cover
+	- algorithm
+	
+
+-----------------------------------------
+OPIS CODE E5QCJP5N

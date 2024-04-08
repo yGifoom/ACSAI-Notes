@@ -1,0 +1,2 @@
+- Q: neither UDP nor TCP can guarantee delay and bandwidth? is it just
+not in the hands of the transport layer? 

@@ -1,0 +1,109 @@
+## Overview of the network infrostructure
+	- network edge
+	- network link
+		- coaxial cable
+		- optic fiber
+	- network core
+		- packets
+		- routing, store & forwarding
+		- packet vs circuit switching
+			- frequency division 
+			- time division
+	- network of networks
+		- global, regional isps
+	- packet loss and delay
+		- transmission delay = nodal processing + queuing + transmission + propagation
+		- queuing delay graph
+		- throughput
+	-layer model of the internet
+		- encapsulation 
+		- routers and switches implementing only some
+		
+## Application Layer
+	- paradigm 
+		- client server paradigm 
+		- peer to peer 
+		- inter process comunication
+		- sockets
+		- identifiers
+	- transport services needed
+		- data integrity
+		- timing
+		- throughput
+		- security
+	- protocols:
+		- UDP
+		- TCP
+		### HTTP
+			- request message format
+			- request messages
+			- stateless
+			- persistent, non-persistent
+			- several objects in one
+			- GET & POST
+			- respose status codes
+			- cookies 
+				- session management
+				- maintaining cookies user/server
+			- web caches
+			- conditional GET
+			- HTTP/2 
+				- pushing embedded object to client
+				- dynamic transmission order (round robin...)
+				- framing of objects
+		### Email 
+			- user agents, web server
+			- SMTP RFC (5321)
+				- client push
+				- message format
+				- IMAP, SMTP
+		### DNS (pushing complexity to the edge of the network)
+			- IP address
+			- Host aliasing (canonical and alias host names)
+			- load distribution
+			- hierarchy
+				- root
+				- top level domain
+				- authoritative
+			- name resolution
+				- iterated query	
+				- recursive query
+			- DNS caching
+				- records
+					- type A
+					- type NS
+					- type MX
+					- 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
