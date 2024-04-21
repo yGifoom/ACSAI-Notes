@@ -1,4 +1,4 @@
-## Base tools for multivariable calcolus
+ ## Base tools for multivariable calcolus
 	- cartesian plane
 	- vectors
 	- lines, planes, sphere
