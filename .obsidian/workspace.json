@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/STATISTICS/Sample Distrtibution.md",
+                "file": "Y2S2/STATISTICS/Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y2S2/STATISTICS/Sample Distrtibution.md",
+                "file": "Y2S2/STATISTICS/Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y2S2/STATISTICS/Sample Distrtibution.md",
+                "file": "Y2S2/STATISTICS/Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2S2/STATISTICS/Sample Distrtibution.md"
+                "file": "Y2S2/STATISTICS/Regression.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "ced0fc8518b68ece",
   "lastOpenFiles": [
+    "Y2S2/STATISTICS/all-of-statistics.pdf",
+    "Y2S2/STATISTICS/Regression.md",
+    "Y2S2/STATISTICS/Alan Agresti_2018.pdf",
+    "Y2S2/STATISTICS/Significance quantification.md",
+    "Y2S2/STATISTICS/Sample Distrtibution.md",
+    "Y2S2/STATISTICS/Confidence Intervals.md",
     "Welcome.md",
     "SYS/notes.txt",
     "SYS/exam-26-07-2023.sol.zip",
@@ -158,7 +164,6 @@
     "SYS/Deadlock.pdf",
     "SYS/18_Advanced_Paging.pdf",
     "SYS/16_Advanced_Paging.pdf",
-    "SYS/16-17_Memory_Management_Allocation.pdf",
     "PHY/phy4.jpg",
     "PHY/phy3.jpg",
     "PHY/phy2.jpg",
