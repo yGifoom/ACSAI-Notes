@@ -3,37 +3,38 @@
 
 ## what is a rational agent?
 [x] Goal & Performance measure
-[] environment types
-[] reflex, goal based 
+[x] environment types
+[x] reflex, goal based 
 [x] world state representation
 
 # The problem solving agent, and search problem
 [x] search problem
 [x] state space (graph to tree)
-[] successor function
+[x] successor function
 [x] search trees
 [x] breadth-first Search
 [x] depth-first Search
 [x] Iterative Deepening
 
 ## Weighted search
-[] Uniform cost Search
+[x] Uniform cost Search
 ### Heuristic
 [x] What is a heuristic?
 [x] What is an *admissible heuristic*?
 [x] greedy Best-First Search
-[] A*
+[x] A*
 
 # Constrain Satisfaction Problem (CSP)
 [x] Assumptions & Definition
 [x] Constraint Graph
 [x] Types of Constraints
-[] As a search problem
+[x] As a search problem
 [x] Most contrained, Most Constraining....
-[] Backtracking
-[] Foward Checking & Constraint propagation (inference)
+[x] Backtracking
+[x] Foward Checking & Constraint propagation (inference)
 [x] Arc Consistency
-[] Waltz/Mackworth Constraint Propagation (AC3)
+[x] Waltz/Mackworth Constraint Propagation (AC3)
+[x] Maintaining Arc Consistency (MAC)
 
 # Adversarial Search
 [x] Zero sum and generic games
