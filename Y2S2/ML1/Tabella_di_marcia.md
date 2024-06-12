@@ -1,4 +1,4 @@
-# Agent 
+0# Agent 
 [x] what is an agent?
 
 ## what is a rational agent?
@@ -41,28 +41,30 @@
 [x] Max-Min
 [x] Evaluation Function
 [x] MinMAx wh fixed depth
-[] Alpha Beta Pruning
-[] Expectimax Search
-[] Monte Carlo Tree Search
+[x] Alpha Beta Pruning
+[x] Expectimax Search
+[x] Monte Carlo Tree Search
 
 # Markov Decision Process (MDP)
 [x] Non Deterministic Search
-[] Reward & Policy
-[] discounting
+[x] Reward & Policy
+[x] discounting
 [x] V values, Q values
-[] Bellman Equations 
-[] Value Iteration
-[] Fixed Policy
-[] Policy Iteration
+[x] Bellman Equations 
+[x] Value Iteration
+[x] Fixed Policy
+[x] Policy Iteration
 ## Passive Reinforcement Learning
-[] Offline, Online
-[] Model Based learning 
-[] Direct Evaluation
-[] Temporal Difference Learning
-[] Q-Value Iteration
+[x] Offline, Online
+[x] Model Based learning 
+[x] Direct Evaluation
+[x] Temporal Difference Learning
+[x] Q-Value Iteration
 ## Active Reinforcement Learning
 [x] Exploration vs Exploitation
-[] Approximate q learning
+[x] Exploration function
+[x] Regret
+[x] Approximate q learning
 [x] feature based Representations (instead of state representations)
 
 # Knowledge Based Agent
