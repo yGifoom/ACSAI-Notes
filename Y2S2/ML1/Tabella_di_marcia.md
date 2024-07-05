@@ -41,46 +41,51 @@
 [x] Max-Min
 [x] Evaluation Function
 [x] MinMAx wh fixed depth
-[] Alpha Beta Pruning
-[] Expectimax Search
-[] Monte Carlo Tree Search
+[x] Alpha Beta Pruning
+[x] Expectimax Search
+[x] Monte Carlo Tree Search
 
 # Markov Decision Process (MDP)
 [x] Non Deterministic Search
-[] Reward & Policy
-[] discounting
+[x] Reward & Policy
+[x] discounting
 [x] V values, Q values
-[] Bellman Equations 
-[] Value Iteration
-[] Fixed Policy
-[] Policy Iteration
+[x] Bellman Equations 
+[x] Value Iteration
+[x] Fixed Policy
+[x] Policy Iteration
 ## Passive Reinforcement Learning
-[] Offline, Online
-[] Model Based learning 
-[] Direct Evaluation
-[] Temporal Difference Learning
-[] Q-Value Iteration
+[x] Offline, Online
+[x] Model Based learning 
+[x] Direct Evaluation
+[x] Temporal Difference Learning
+[x] Q-Value Iteration
 ## Active Reinforcement Learning
 [x] Exploration vs Exploitation
-[] Approximate q learning
+[x] Approximate q learning
 [x] feature based Representations (instead of state representations)
 
 # Knowledge Based Agent
 ## Propositional Logic
-[] formula tree
-[] satifyibility of models
-[] Entailment
-[] Deduction Theorem 
+[] Syntax
+## Satifiability, Tautology and Contradiction
+[x] formula tree
+[x] satifyibility of models
+[x] Entailment
+[x] Deduction Theorem
+[x] Redutio ad absurdum
+## Inference
 [] Automated and Naive Reasoning
 [] Monotonicity
 [] Principle of explosion
 [] Logical equivalences, properties
 [] Conjunctive Normal Form (CNF)
-[] Reduction ad absurdum
+[] Reduction ad absurdum (again)
 [] Deductive System
 [] proof finding
+## soundness & Completeness
 [] soundness & Completeness
 [] forward Chaining
 [] and or graph
-[] Backward Chaining
 ## DPLL
+[] forward checking
