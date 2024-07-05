@@ -69,20 +69,25 @@
 
 # Knowledge Based Agent
 ## Propositional Logic
-[] formula tree
-[] satifyibility of models
-[] Entailment
-[] Deduction Theorem 
+[] Syntax
+## Satifiability, Tautology and Contradiction
+[x] formula tree
+[x] satifyibility of models
+[x] Entailment
+[x] Deduction Theorem
+[x] Redutio ad absurdum
+## Inference
 [] Automated and Naive Reasoning
 [] Monotonicity
 [] Principle of explosion
 [] Logical equivalences, properties
 [] Conjunctive Normal Form (CNF)
-[] Reduction ad absurdum
+[] Reduction ad absurdum (again)
 [] Deductive System
 [] proof finding
+## soundness & Completeness
 [] soundness & Completeness
 [] forward Chaining
 [] and or graph
-[] Backward Chaining
 ## DPLL
+[] forward checking
