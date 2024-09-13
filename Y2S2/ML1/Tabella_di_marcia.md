@@ -1,4 +1,4 @@
-# Agent 
+0# Agent 
 [x] what is an agent?
 
 ## what is a rational agent?
@@ -62,6 +62,8 @@
 [x] Q-Value Iteration
 ## Active Reinforcement Learning
 [x] Exploration vs Exploitation
+[x] Exploration function
+[x] Regret
 [x] Approximate q learning
 [x] feature based Representations (instead of state representations)
 
