@@ -1,0 +1,66 @@
+EXAM of FOUNDATIONS OF COMPUTER SCIENCE
+Written Exam: exercises on regular and context free languages (grammars, automata, regular
+expressions, the two pumping lemma). All the exercises contained in chapt.'s 1 and 2 of [S] and in
+chapt.'s 2-6 of [HU] are examples of what you may find in a written exam.
+REMARK: both books contain more material than what we present in this course; so be careful when
+you choose your exercises therein.
+Oral exam:
+• To pass the exam (with mark between 18 and 24), you will be required to know:
+o All definitions, examples and theorem statements;
+o The proofs of the following theorems:
+§ From Sipser’s book [S]:
+x1. 1.39 (determ vs nondeterm),
+x2. 1.45, 1.47, 1.49 (closures of reg.lang.’s),
+x3. 1.55 (from reg.expr.’s to finite aut.),
+x4. 1.70 (pumping lemma reg.lang.),
+5. 2.21 (from CFG to PDA),
+6. 3.21 (enumerators vs TM),
+x7. 4.1, 4.2, 4.3, 4.4, 4.5 (decid. of membersh./emptin./equiv. in RL),
+8. 4.7, 4.8 (decid. of membership/emptiness in CFL),
+9. 5.9 (dec. of membership LBA),
+10. 4.22 (decidability vs R.E. and existence of non-RE lang’s),
+x11. 5.1 (halting prob.),
+12. 7.20 (NP = polytime verific.),
+13. 7.31 (pol.reduc. in P),
+14. 7.36 (pol.reduc. in NPC),
+15. 7.55 (HAM-PATH < U-HAM-PATH).
+§ From Hopcroft&Ullman’s book [UL]:
+x16. Thm 9.1, 9.2 (reg.gramm. vs FA)
+§ From Cormen&Leiserson&Rivest’s book [CLR]:
+17. 34.10 (sat < 3cnfsat),
+18. 34.12 (clique < vertex cover),
+19. 34.14 (ham cycle < tsp),
+20. 35.1 (approx. vertex cover).
+• To have a high mark (between 24 and 30), you will be further required to know the proofs
+of the following theorems:
+§ From Sipser’s book [S]:
+x1. 1.60, 1.64 (from DFA to reg.expr.),
+2. 2.27 (from PDA to CFG),
+3. 2.34 (pumping lemma CFL),
+x4. 3.13 (multitape vs single tape TM),
+5. 3.16 (nondet. vs det. TM),
+6. 4.11 (undec. of membership TM), 
+7. 7.8 (complexity of reduc. multitape to single tape),
+8. 7.11 (complexity of reduc. nondet to det),
+9. 8.25 (PATH is NL-complete).
+§ From Hopcroft&Ullman’s book [UL]:
+10. Thm 9.3 (0 gramm. to TM),
+11. Thm 9.5 (CSG in LBA).
+§ From Cormen&Leiserson&Rivest’s book [CLR]:
+12. 34.1 (polynomially related encodings),
+13. 34.11 (3cnfsat < clique),
+14. 35.2, 35.3 (approx. tsp with/without triangle eq.).
+• To pass the exam cum laude, you will be asked one of the following proofs:
+§ From Sipser’s book [S]:
+1. 5.10 (undec. emptiness LBA),
+2. 5.13 (undec. all Σ* for CFL),
+3. exercise 5.28 (Rice’s theor.),
+4. 7.37 (Cook Levin),
+5. 7.46 (3cnfsat < HAM-PATH),
+6. 8.9 (TQBF is PSPACE-complete).
+§ From Hopcroft&Ullman’s book [UL]:
+7. Thm 9.4 (TM to 0 gramm.),
+8. Thm 9.6 (LBA to CSG).
+§ From Cormen&Leiserson&Rivest’s book [CLR]:
+9. 34.15 (3cnfsat < subset sum),
+10. 35.8 (PTAS for subset sum).
